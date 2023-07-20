@@ -1,11 +1,41 @@
 ---
-title: "dnguyen-td.github.io"
+title: "Thi Thuy Dung (Jun) Nguyen"
+about:
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  image-width: 23em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/junnguyentt
+    - icon: github
+      text: Github
+      href: https://github.com/dnguyen-td
+    - text: Email
+      href: mailto:dnguyen@emp.uc3m.es     
+output:
+  postcards::jolla
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Jun is a Ph.D. candidate at Universidad Carlos III de Madrid (UC3M) . Prior to entering the Ph.D. program at UC3M, Jun attended the Banking University of HCMC, Vietnam, where she got a double degree in Business Administration and Accounting. Jun also finished her Master of Business and Finance with an emphasis in accounting and auditing. Upon graduation, Jun worked in the public accounting profession at Mazars Vietnam and BIDV Vietnam for three years as an audit intern and a general accountant.
 
-```{r}
-1 + 1
-```
+## Education
+
+Universidad Carlos III de Madrid \| Spain
+PhD in Business and Finance \| Sep 2020 - Jul 2024 (expected)
+
+University of Florida \| United States \| Visiting scholar \| Nov 2022 - Mar 2023
+
+Universidad Carlos III de Madrid \| Spain
+Master in Business and Finance \| Sep 2018 - Sep 2020
+
+## Experience
+
+Ho Chi Minh City University of Law Vietnam\| Lecturer in Accounting \| Nov 2016 - Sep 2018
+
+BIDV Vietnam \| General accountant \| Apr 2015 - Oct 2016
+
+:::

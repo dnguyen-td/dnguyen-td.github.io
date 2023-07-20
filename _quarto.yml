@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "dnguyen-td.github.io"
+  title: "Jun Nguyen"
   navbar:
     left:
       - href: index.qmd
@@ -12,9 +12,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: slate
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
