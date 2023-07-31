@@ -5,19 +5,32 @@ project:
 website:
   title: "Jun Nguyen"
   navbar:
-    left:
+    background: primary
+    right:
       - href: index.qmd
         text: Home
+      - research.qmd
+      - teaching.qmd
+      - href: curriculum_vitae_dnguyen.pdf
+        text: Resume
       - about.qmd
+      # - blog.qmd
 
 format:
   html:
-    theme: 
-      light: minty
+    theme:
+      light: flatly
       dark: slate
     css: styles.css
     toc: true
     page-layout: full
+
+# format:
+#   html:
+#     theme: 
+#       - mystyles.scss
+#     css: styles.css
+#     toc: true
 
 editor: visual
 
