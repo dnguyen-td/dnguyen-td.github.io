@@ -1,41 +1,82 @@
 ---
 title: "Thi Thuy Dung (Jun) Nguyen"
 about:
-  template: jolla
-  image: profile.jpg
+  template: trestles
+  image: profile.png
   image-shape: round
-  image-width: 23em
+  image-width: 25em
+
   links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/dnguyentt/
     - icon: twitter
       text: Twitter
       href: https://twitter.com/junnguyentt
     - icon: github
       text: Github
       href: https://github.com/dnguyen-td
-    - text: Email
-      href: mailto:dnguyen@emp.uc3m.es     
-output:
-  postcards::jolla
+    - icon: envelope
+      text: Email  
+      href: mailto:dnguyen@emp.uc3m.es  
+
+editor: visual
 ---
 
-:::{#hero-heading}
+## Welcome!
 
-Jun is a Ph.D. candidate at Universidad Carlos III de Madrid (UC3M) . Prior to entering the Ph.D. program at UC3M, Jun attended the Banking University of HCMC, Vietnam, where she got a double degree in Business Administration and Accounting. Jun also finished her Master of Business and Finance with an emphasis in accounting and auditing. Upon graduation, Jun worked in the public accounting profession at Mazars Vietnam and BIDV Vietnam for three years as an audit intern and a general accountant.
+Jun is a Ph.D. candidate in Accounting at Universidad Carlos III de Madrid, Spain (UC3M).
+
+
+Her field of interest is archival auditing. She is currently working on topics linked with audit quality and its economic consequences, audit market structure, and auditor judgment, reporting, and disclosure. She is also particularly interested in adopting advanced econometrics and frontier data science methods in auditing research.
+
+
+She loves cooking, traveling, and drawing in Procreate.
 
 ## Education
 
-Universidad Carlos III de Madrid \| Spain
-PhD in Business and Finance \| Sep 2020 - Jul 2024 (expected)
+<p class="custom-subtitle">
 
-University of Florida \| United States \| Visiting scholar \| Nov 2022 - Mar 2023
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance**, Expected 2024
 
-Universidad Carlos III de Madrid \| Spain
-Master in Business and Finance \| Sep 2018 - Sep 2020
+</p>
 
-## Experience
+<p class="custom-subtitle2">
 
-Ho Chi Minh City University of Law Vietnam\| Lecturer in Accounting \| Nov 2016 - Sep 2018
+Universidad Carlos III de Madrid, Spain
 
-BIDV Vietnam \| General accountant \| Apr 2015 - Oct 2016
+</p>
 
-:::
+<p class="custom-subtitle">
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Visiting scholar**, Nov 2022 - Mar 2023
+
+</p>
+
+<p class="custom-subtitle2">
+
+University of Florida, United States
+
+</p>
+
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Master in Business and Finance**, 2020
+
+</p>
+
+<p class="custom-subtitle2">
+
+Universidad Carlos III de Madrid, Spain
+
+</p>
+
+## Work Experience
+
+`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Lecturer in Accounting** \| Nov 2016 - Sep 2018 \| Ho Chi Minh City University of Law, Vietnam
+
+`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **General accountant** \| Apr 2015 - Oct 2016 \| BIDV, Vietnam
+
+`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Audit assistant** \| Jan 2014 - Apr 2015 \| Mazars, Vietnam
+
+`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Intern accountant** \| Apr 2013 – Sep 2013 \| Thien Minh Consultancy Limited Company, Vietnam
+
+
+
