@@ -1,9 +1,20 @@
 ---
-title: "About"
+title: "Personal"
+editor: visual
 ---
 
-About this site
+::: panel-tabset
+## About Me
 
-```{r}
-1 + 1
-```
+...
+
+## Travel
+
+...
+
+## Hobbies
+
+...
+:::
+
+------------------------------------------------------------------------
