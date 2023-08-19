@@ -10,11 +10,47 @@ editor: visual
 
 ## Travel
 
-...
+I love to travel and explore the diverse local cultures and cuisines around the world. Being in academia not only enables me to journey across the globe but also give me a chance to meet new people from various countries and cultural backgrounds. Here is an interactive map showing the footprints of my journeys thus far!
+
+```{r, message= FALSE, warning= FALSE, echo= FALSE}
+
+#load needed libraries
+library(tidyverse)
+library(here)
+library(sf)
+library(leaflet)
+library(readxl)
+
+#read in cities
+cities <- read_excel(here("data", "travel_cities.xlsx"))
+
+#add geometries to cities
+cities <- cities %>% 
+  st_as_sf(coords = c("lon",
+                      "lat"),
+            crs = 4326)
+
+icons <- awesomeIcons(
+  icon = 'ios-close',
+  iconColor = 'black',
+  library = 'ion',
+  markerColor = "green"
+)
+
+cities %>% 
+  leaflet() %>% 
+  addProviderTiles(providers$Esri.WorldPhysical) %>% 
+  addProviderTiles(providers$Stamen.TonerLabels) %>% 
+  addAwesomeMarkers(label = cities$city,
+                    icon=icons)
+
+```
+
+
 
 ## Hobbies
 
 ...
 :::
 
-------------------------------------------------------------------------
+

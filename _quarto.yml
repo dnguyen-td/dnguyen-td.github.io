@@ -15,6 +15,9 @@ website:
         text: Resume
       - about.qmd
       # - blog.qmd
+  page-footer: 
+    left: "Copyright 2023, Jun Nguyen"
+    background: "#124559"
 
 format:
   html:
@@ -24,6 +27,8 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+
+
 
 # format:
 #   html:
