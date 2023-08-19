@@ -10,7 +10,7 @@ editor: visual
 
 ## Travel
 
-I love to travel and explore the diverse local cultures and cuisines around the world. Being in academia not only enables me to journey across the globe but also give me a chance to meet new people from various countries and cultural backgrounds. Here is an interactive map showing the footprints of my journeys thus far!
+I'd love to travel and explore the diverse local cultures and cuisines around the world. Being in academia not only enables me to journey across the globe but also give me a chance to meet new people from various countries and cultural backgrounds. Here is an interactive map showing the footprints of my journeys thus far!
 
 ```{r, message= FALSE, warning= FALSE, echo= FALSE}
 
