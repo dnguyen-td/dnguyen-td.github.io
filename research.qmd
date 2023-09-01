@@ -2,9 +2,9 @@
 title: "Research"
 ---
 
-`r fontawesome::fa("book-open", fill = "#124559", a11y = "sem")` **Client-level exposure to cryptocurrency and auditor responses** (***with Beatriz García Osma and Hoang Nhan Ha***)
+`r fontawesome::fa("book-open", fill = "#124559", a11y = "sem")` **Client-level exposure to cryptocurrency and auditor responses** (***with Beatriz García Osma, Hoang Nhan Ha and W. Robert Knechel***)
 
-Auditors increasingly face issues that transcend the formal boundaries of the firm. In an era of technological revolution and in settings where authoritative accounting and auditing guidance is yet to develop, auditors often lack the necessary knowledge and expertise to navigate novel and complex issues. In this study, we examine auditor responses to such uncertainty due to exposure associated with cryptocurrency. Cryptocurrency is of interest due to its fast growth and the lack of regulation on how to account for and audit crypto assets. Using Item 1 and Item 1A of 10-K filings, we construct and validate a novel text-based measure of client-level exposure to cryptocurrency and the nature of such exposure. Using this proxy, we provide evidence of the association of a client's exposure to cryptocurrency and audit pricing and auditor decisions.
+Auditors increasingly face issues that transcend the formal boundaries of the firm. In an era of technological revolution and where authoritative accounting and auditing guidance are yet to develop, auditors may lack the necessary knowledge and expertise to navigate novel and complex issues. In this study, we examine auditor responses in such settings, by focusing on client exposure to cryptocurrency. We construct and validate a novel text-based measure of client-level exposure to cryptocurrency and the nature of such exposure. Using this proxy, we document an association between client exposure to cryptocurrency and audit pricing and reporting decisions. We also provide evidence of heightened audit-office demand for crypto-related skills.
 
 `r fontawesome::fa("book-open", fill = "#124559", a11y = "sem")` **Opinion selling and auditor reputation** (***with Beatriz García Osma and Encarna Guillamon-Saorin***)
 
@@ -16,4 +16,4 @@ We examine whether lenders influence audit materiality disclosures and their con
 
 `r fontawesome::fa("book-open", fill = "#124559", a11y = "sem")` **When auditors talk, who listens? Evidence from podcast series** (***with Hoang Nhan Ha***)
 
-Initial stage research
+Initial stage research - *Status: Data collection*
