@@ -48,5 +48,17 @@ cities %>%
 
 ## Hobbies
 
-Can you perceive the aroma of food wafting from these photos? I enjoy cooking and having culinary experiences at various restaurants everywhere I travel with my closed friends. Another hobby I love is creating art in Procreate and watching time-lapse videos to see the process of how things are made. I also make time for Zumba fitness and swimming to maintain a healthy work-life balance. 
+Can you perceive the aroma of food wafting from these photos? I enjoy cooking and having culinary experiences at various restaurants everywhere I travel with my closed friends. Another hobby I love is creating art in Procreate and watching time-lapse videos to see the process of how things are made. I also make time for Zumba fitness and swimming to maintain a healthy work-life balance.
+
+::: {layout-ncol="2"}
+![](image/DSC00188.JPG)
+
+![](image/DSC08126.JPG)
+
+![](image/IMG-2239.jpg)
+
+![](image/IMG-3064.JPG)
+
+![](image/DSC08130.JPG)
+:::
 :::
