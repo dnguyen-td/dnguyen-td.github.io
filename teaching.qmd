@@ -4,11 +4,15 @@ title: "Teaching"
 
 `r fontawesome::fa("chalkboard-user", fill = "#124559", a11y = "sem")` **Teaching assistant** (***UC3M, Spain***)
 
-Introduction to Accounting (Undergraduate, 4.73/5 - 4.6/5) - Spring 2021
+Analysis of Financial Statements (Undergraduate) - Spring 2024
 
-Introduction to Accounting (Undergraduate, 4.37/5 - 4.76/5) - Spring 2020
+Introduction to Accounting (Undergraduate) - Spring 2024
 
-Introduction to Accounting (Undergraduate, 3.51/5 - 4.15/5) - Spring 2019
+Introduction to Accounting (Undergraduate, 4.73/5 - 4.6/5) - Spring 2022
+
+Introduction to Accounting (Undergraduate, 4.37/5 - 4.76/5) - Spring 2021
+
+Introduction to Accounting (Undergraduate, 3.51/5 - 4.15/5) - Spring 2020
 
 `r fontawesome::fa("chalkboard-user", fill = "#124559", a11y = "sem")` **Lecturer in Accounting** (***Ho Chi Minh City University of Law, Vietnam***)
 
