@@ -4,9 +4,6 @@ editor: visual
 ---
 
 ::: panel-tabset
-## About Me
-
-...
 
 ## Travel
 

@@ -11,7 +11,7 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
-      - href: curriculum_vitae_dnguyen.pdf
+      - href: cv_dnguyen.pdf
         text: Resume
       - about.qmd
       # - blog.qmd
