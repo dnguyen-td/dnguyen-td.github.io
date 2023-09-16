@@ -28,7 +28,7 @@ editor: visual
 Jun is a Ph.D. candidate in Accounting at Universidad Carlos III de Madrid, Spain (UC3M).
 
 
-Her primary area of interest is archival auditing. She is currently working on topics linked with audit quality and its economic implications, auditors' responses to emerging issues, auditor judgments, and auditor expertise. She is also particularly interested in adopting advanced econometrics and frontier data science methods in auditing research.
+Her primary area of interest is archival auditing. She is currently working on topics linked with audit quality and its economic implications, with particular emphasis on auditors’ responses to emerging issues, auditor judgments, and auditor expertise. She is also interested in advanced econometrics and frontier data science methods in auditing research, including advancing her existing knowledge of textual data analysis and machine learning methods, which she uses extensively in her dissertation.
 
 
 She loves cooking, traveling, and drawing in Procreate.
