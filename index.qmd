@@ -37,7 +37,7 @@ She loves cooking, traveling, and drawing in Procreate.
 
 <p class="custom-subtitle">
 
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance (Accounting track)** \| Expected 2024
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance (Accounting track)** \| Expected July 2024
 
 </p>
 
@@ -58,7 +58,7 @@ University of Florida, United States
 
 </p>
 
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Master in Business and Finance** \| 2020
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Master in Business and Finance** \| Sep 2020
 
 </p>
 
