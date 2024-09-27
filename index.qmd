@@ -18,26 +18,26 @@ about:
       href: https://github.com/dnguyen-td
     - icon: envelope
       text: Email  
-      href: mailto:dnguyen@emp.uc3m.es  
+      href: mailto:jun.nguyen@nhh.no 
 
 editor: visual
 ---
 
 ## Welcome!
 
-Jun is a Ph.D. candidate in Accounting at Universidad Carlos III de Madrid, Spain (UC3M).
+Jun is an Assistant Professor of Accounting at NHH Norwegian School of Economics, Norway. She holds a Ph.D. in Accounting from Universidad Carlos III de Madrid, Spain.
 
 
 Her primary area of interest is archival auditing. She is currently working on topics linked with audit quality and its economic implications, with particular emphasis on auditors’ responses to emerging issues, auditor judgments, and auditor expertise. She is also interested in advanced econometrics and frontier data science methods in auditing research, including advancing her existing knowledge of textual data analysis and machine learning methods, which she uses extensively in her dissertation.
 
 
-She loves cooking, traveling, and drawing in Procreate.
+She loves cooking, traveling, building Lego and drawing in Procreate.
 
 ## Education
 
 <p class="custom-subtitle">
 
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance (Accounting track)** \| Expected July 2024
+`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance (Accounting track)** \| July 2024
 
 </p>
 
@@ -69,6 +69,8 @@ Universidad Carlos III de Madrid, Spain
 </p>
 
 ## Work Experience
+
+`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Assistant Professor in Accounting** \| Aug 2024 - present \| NHH Norwegian School of Economics, Norway
 
 `r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Lecturer in Accounting** \| Nov 2016 - Sep 2018 \| Ho Chi Minh City University of Law, Vietnam
 
