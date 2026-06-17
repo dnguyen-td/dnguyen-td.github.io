@@ -36,7 +36,7 @@ icons <- awesomeIcons(
 cities %>% 
   leaflet() %>% 
   addProviderTiles(providers$Esri.WorldPhysical) %>% 
-  addProviderTiles(providers$Stadia.StamenTonerLabels) %>%
+  addProviderTiles(providers$CartoDB.PositronOnlyLabels) %>%
   addAwesomeMarkers(label = cities$city,
                     icon=icons)
 
