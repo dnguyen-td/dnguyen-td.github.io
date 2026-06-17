@@ -3,8 +3,7 @@ title: "Personal"
 editor: visual
 ---
 
-::: panel-tabset
-
+:::: panel-tabset
 ## Travel
 
 I'd love to travel and explore the diverse local cultures and cuisines around the world. Being in academia not only enables me to journey across the globe but also give me a chance to meet new people from various countries and cultural backgrounds. Here is an interactive map showing the footprints of my journeys thus far!
@@ -37,7 +36,7 @@ icons <- awesomeIcons(
 cities %>% 
   leaflet() %>% 
   addProviderTiles(providers$Esri.WorldPhysical) %>% 
-  addProviderTiles(providers$Stamen.TonerLabels) %>% 
+  addProviderTiles(providers$Stadia.StamenTonerLabels) %>%
   addAwesomeMarkers(label = cities$city,
                     icon=icons)
 
@@ -58,4 +57,4 @@ Can you perceive the aroma of food wafting from these photos? I enjoy cooking an
 
 ![](image/DSC08130.JPG)
 :::
-:::
+::::

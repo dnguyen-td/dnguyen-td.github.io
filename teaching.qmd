@@ -2,7 +2,13 @@
 title: "Teaching"
 ---
 
-`r fontawesome::fa("chalkboard-user", fill = "#124559", a11y = "sem")` **Teaching assistant** (***UC3M, Spain***)
+<i class="bi bi-easel-fill" style="color:#124559;"></i> **Co-instructor** (***NHH, Norway***)
+
+BUD2 Financial Accounting (Undergraduate) - Fall 2025
+
+BUS476 Data Analytics in Business and Research (Graduate) - Spring 2026
+
+<i class="bi bi-easel-fill" style="color:#124559;"></i> **Teaching assistant** (***UC3M, Spain***)
 
 Analysis of Financial Statements (Undergraduate) - Spring 2024
 
@@ -14,7 +20,7 @@ Introduction to Accounting (Undergraduate, 4.37/5 - 4.76/5) - Spring 2021
 
 Introduction to Accounting (Undergraduate, 3.51/5 - 4.15/5) - Spring 2020
 
-`r fontawesome::fa("chalkboard-user", fill = "#124559", a11y = "sem")` **Lecturer in Accounting** (***Ho Chi Minh City University of Law, Vietnam***)
+<i class="bi bi-easel-fill" style="color:#124559;"></i> **Lecturer in Accounting** (***Ho Chi Minh City University of Law, Vietnam***)
 
 Introduction to Accounting (Undergraduate) - Spring 2018
 

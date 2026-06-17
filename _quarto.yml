@@ -11,8 +11,8 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
-      - href: cv_dnguyen.pdf
-        text: Resume
+      # - href: cv_dnguyen.pdf
+      #   text: Resume
       - about.qmd
       # - blog.qmd
   page-footer: 

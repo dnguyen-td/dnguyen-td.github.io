@@ -17,8 +17,8 @@ about:
       text: Github
       href: https://github.com/dnguyen-td
     - icon: envelope
-      text: Email  
-      href: mailto:jun.nguyen@nhh.no 
+      text: Email
+      href: mailto:jun.nguyen@nhh.no
 
 editor: visual
 ---
@@ -27,9 +27,7 @@ editor: visual
 
 Jun is an Assistant Professor of Accounting at NHH Norwegian School of Economics, Norway. She holds a Ph.D. in Accounting from Universidad Carlos III de Madrid, Spain.
 
-
-Her primary area of interest is archival auditing. She is currently working on topics linked with audit quality and its economic implications, with particular emphasis on auditors’ responses to emerging issues, auditor judgments, and auditor expertise. She is also interested in advanced econometrics and frontier data science methods in auditing research, including advancing her existing knowledge of textual data analysis and machine learning methods, which she uses extensively in her dissertation.
-
+Her primary area of interest is archival auditing. Her current research considers how regulatory information, market incentives, and auditor communication shape auditor behavior and audit market outcomes. She is also interested in advanced econometrics and frontier data science methods in auditing research, including advancing her existing knowledge of textual data analysis and machine learning methods.
 
 She loves cooking, traveling, building Lego and drawing in Procreate.
 
@@ -37,7 +35,7 @@ She loves cooking, traveling, building Lego and drawing in Procreate.
 
 <p class="custom-subtitle">
 
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Ph.D. in Business and Finance (Accounting track)** \| July 2024
+<i class="bi bi-mortarboard-fill" style="color:#124559;"></i> **Ph.D. in Business and Finance (Accounting track)** \| July 2024
 
 </p>
 
@@ -48,7 +46,8 @@ Universidad Carlos III de Madrid, Spain
 </p>
 
 <p class="custom-subtitle">
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Visiting scholar** \| Nov 2022 - Mar 2023
+
+<i class="bi bi-mortarboard-fill" style="color:#124559;"></i> **Visiting scholar** \| Nov 2022 - Mar 2023
 
 </p>
 
@@ -58,7 +57,9 @@ University of Florida, United States
 
 </p>
 
-`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")` **Master in Business and Finance** \| Sep 2020
+<p class="custom-subtitle">
+
+<i class="bi bi-mortarboard-fill" style="color:#124559;"></i> **Master in Business and Finance** \| Sep 2020
 
 </p>
 
@@ -70,15 +71,12 @@ Universidad Carlos III de Madrid, Spain
 
 ## Work Experience
 
-`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Assistant Professor in Accounting** \| Aug 2024 - present \| NHH Norwegian School of Economics, Norway
+<i class="bi bi-briefcase-fill" style="color:#124559;"></i> **Assistant Professor in Accounting** \| Aug 2024 - present \| NHH Norwegian School of Economics, Norway
 
-`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Lecturer in Accounting** \| Nov 2016 - Sep 2018 \| Ho Chi Minh City University of Law, Vietnam
+<i class="bi bi-briefcase-fill" style="color:#124559;"></i> **Lecturer in Accounting** \| Nov 2016 - Sep 2018 \| Ho Chi Minh City University of Law, Vietnam
 
-`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **General accountant** \| Apr 2015 - Oct 2016 \| BIDV, Vietnam
+<i class="bi bi-briefcase-fill" style="color:#124559;"></i> **General accountant** \| Apr 2015 - Oct 2016 \| BIDV, Vietnam
 
-`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Audit assistant** \| Jan 2014 - Apr 2015 \| Mazars, Vietnam
+<i class="bi bi-briefcase-fill" style="color:#124559;"></i> **Audit assistant** \| Jan 2014 - Apr 2015 \| Mazars, Vietnam
 
-`r fontawesome::fa("briefcase", fill = "#124559", a11y = "sem")` **Intern accountant** \| Apr 2013 – Sep 2013 \| Thien Minh Consultancy Limited Company, Vietnam
-
-
-
+<i class="bi bi-briefcase-fill" style="color:#124559;"></i> **Intern accountant** \| Apr 2013 – Sep 2013 \| Thien Minh Consultancy Limited Company, Vietnam
